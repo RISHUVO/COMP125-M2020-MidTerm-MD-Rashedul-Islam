@@ -1,0 +1,23 @@
+{
+  "name": "comp125-m2020-midterm-301118802-ris",
+  "version": "1.2.0",
+  "description": "Anwer of midterm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md Rashedul Islam",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/bootstrap": "^4.5.0",
+    "@types/jquery": "^3.5.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome": "^1.1.8",
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  },
+  "repository": " "
+}
